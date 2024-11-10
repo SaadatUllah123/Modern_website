@@ -1,7 +1,7 @@
 import React from "react";
 import { MdBookmark } from "react-icons/md";
 
-export default function () {
+export default function Pricing() {
   return (
     <section id="pricing">
       <div>

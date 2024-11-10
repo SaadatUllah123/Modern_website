@@ -9,7 +9,7 @@ export default function Hero() {
           <h1>awesome app for your financial.</h1>
           <p>
             the should be used to tell a story and let your users know a little
-            more about app and it's use, how can benefit them.
+            more about app and it`&apos;`s use, how can benefit them.
           </p>
           <button className="btn">download app</button>
         </div>
